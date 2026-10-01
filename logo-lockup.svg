@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 320">
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1B6DE0"/>
+      <stop offset="1" stop-color="#0A2E6E"/>
+    </linearGradient>
+    <clipPath id="frame2">
+      <rect x="8" y="8" width="304" height="304" rx="72"/>
+    </clipPath>
+  </defs>
+  <rect x="8" y="8" width="304" height="304" rx="72" fill="url(#bg2)"/>
+  <g clip-path="url(#frame2)">
+    <g fill="#FFFFFF">
+      <circle cx="128" cy="172" r="44"/>
+      <circle cx="182" cy="150" r="58"/>
+      <circle cx="230" cy="174" r="38"/>
+      <rect x="88" y="174" width="178" height="62" rx="31"/>
+    </g>
+    <rect x="66" y="216" width="202" height="24" rx="12" fill="#E8A020" transform="rotate(-12 167 228)"/>
+  </g>
+  <text x="344" y="200" font-family="Arial, Helvetica, sans-serif" font-size="96" font-weight="bold" fill="#0F4FAE">Cloudliner<tspan fill="#E8A020">X</tspan></text>
+</svg>
